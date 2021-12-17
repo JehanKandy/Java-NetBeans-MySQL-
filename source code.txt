@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author wasantha
+ * @author jehan
  */
 public class reg extends javax.swing.JFrame {
     Connection con = null;
